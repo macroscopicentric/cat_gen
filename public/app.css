@@ -1,0 +1,55 @@
+html {
+    font-size: 100%;
+}
+
+body {
+    background-color: #4a4a4a;
+    padding: 10%;
+    text-align: center;
+}
+
+.page {
+    margin: 1%;
+    padding: 2%;
+    border-radius: 3em;
+}
+
+.biggish {
+    margin: 5%;
+    font-family: Georgia, Times, serif;
+    font-size: 5em;
+    font-weight: 700;
+    color: #FFF;
+}
+
+.smallish {
+    font-family: Helvetica, Arial, san-serif;
+    color: #FFF;
+    font-size: 2em;
+    font-weight: 500;
+}
+
+.new-button {
+    background: #ff6bb5;
+    background-image: -webkit-linear-gradient(top, #ff6bb5, #cc0066);
+    background-image: -moz-linear-gradient(top, #ff6bb5, #cc0066);
+    background-image: -ms-linear-gradient(top, #ff6bb5, #cc0066);
+    background-image: -o-linear-gradient(top, #ff6bb5, #cc0066);
+    background-image: linear-gradient(to bottom, #ff6bb5, #cc0066);
+    -webkit-border-radius: 3em;
+    -moz-border-radius: 3em;
+    border-radius: 3em;
+    border: none;
+    padding: 1% 3%;
+    cursor: pointer;
+    box-shadow: .25em .25em .5em .10em #303030;
+}
+
+.new-button:hover {
+    background: #ff85c2;
+    background-image: -webkit-linear-gradient(top, #ff85c2, #ff6bb5);
+    background-image: -moz-linear-gradient(top, #ff85c2, #ff6bb5);
+    background-image: -ms-linear-gradient(top, #ff85c2, #ff6bb5);
+    background-image: -o-linear-gradient(top, #ff85c2, #ff6bb5);
+    background-image: linear-gradient(to bottom, #ff85c2, #ff6bb5);
+}

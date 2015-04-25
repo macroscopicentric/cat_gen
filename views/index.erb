@@ -5,13 +5,18 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <meta name="viewport" content="width=device-width">
     <title>Cat Nickname Generator</title>
+    <link rel="stylesheet" href="app.css" type="text/css" />
 </head>
 
 <body>
     <div>
-        <p>You should call your cat</p>
-        <p><%= nickname %></p>
+        <h3 class="smallish">You should call your cat:</h3>
+        <h1 class="biggish"><%= nickname %></h1>
     </div>
+
+    <form action="/" method="get">
+        <input type="submit" value="Another!" class="new-button smallish"/>
+    </form>
 </body>
 
 </html>
