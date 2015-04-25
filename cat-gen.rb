@@ -1,27 +1,37 @@
 FIRST_WORD_POOL = {
-    'shit' => ['tle'],
-    'turd' => ['le'],
+    'baby' => [],
     'butt' => [],
-    'nugg' => ['ie'],
-    'muffin' => [],
-    'potato' => [],
+    'chub' => [],
     'fat' => ['tie'],
+    'fluffy' => [],
+    'fuzz' => [],
+    'muffin' => [],
+    'nugg' => ['ie'],
+    'potato' => [],
+    'purr' => [],
+    'shit' => ['tle'],
+    'sweet' => [],
+    'tub' => ['bie'],
+    'turd' => ['le'],
+    'turtle' => [],
     'vom' => ['mie'],
-    'whisker' => [],
-    'purr' => []
+    'whisker' => []
 }
 
 SECOND_WORD_POOL = [
-    'kin',
+    'brain',
+    'bucket',
+    'bun',
     'butt',
     'cat',
-    'brain',
+    'cheeks',
     'face',
-    'bucket',
+    'head',
     'hole',
+    'kin',
+    'man',
     'nug',
-    'bun',
-    'man'
+    'nugget'
 ]
 
 def build_name
