@@ -53,7 +53,8 @@ end
 
 def second_word
     second_word = SECOND_WORD_POOL.sample
-    second_word += 's' if coin_toss
+
+    second_word += 's' if coin_toss and !second_word.end_with?('s')
 
     return second_word
 end
