@@ -2,11 +2,13 @@ FIRST_WORD_POOL = {
     'baby' => [],
     'butt' => [],
     'chub' => [],
+    'chonkapottamus' => [],
     'fat' => ['tie'],
     'fluffy' => [],
     'fuzz' => [],
     'muffin' => [],
     'nugg' => ['ie'],
+    'pig' => ['let', 'gie'],
     'potato' => [],
     'purr' => [],
     'shit' => ['tle'],
@@ -31,7 +33,8 @@ SECOND_WORD_POOL = [
     'kin',
     'man',
     'nug',
-    'nugget'
+    'nugget',
+    ' rex'
 ]
 
 def build_name

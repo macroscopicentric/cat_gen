@@ -1,3 +1,3 @@
-A random cat nickname generator, based on actual nicknames my roommates use for their actual cat.
+A random cat nickname generator, based on actual nicknames friends have used for their actual cats.
 
-Mildly NSFW, because swearing.
+Mildly NSFW for swearing.
