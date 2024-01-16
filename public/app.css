@@ -31,11 +31,6 @@ body {
 
 .new-button {
     background: #ff6bb5;
-    background-image: -webkit-linear-gradient(top, #ff6bb5, #cc0066);
-    background-image: -moz-linear-gradient(top, #ff6bb5, #cc0066);
-    background-image: -ms-linear-gradient(top, #ff6bb5, #cc0066);
-    background-image: -o-linear-gradient(top, #ff6bb5, #cc0066);
-    background-image: linear-gradient(to bottom, #ff6bb5, #cc0066);
     -webkit-border-radius: 3em;
     -moz-border-radius: 3em;
     border-radius: 3em;
