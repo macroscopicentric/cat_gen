@@ -18,3 +18,7 @@ or
 ```
 bundle exec puma
 ```
+
+## Deploying to Fly
+
+This is currently set up to deploy continuously via [these instructions](https://fly.io/docs/app-guides/continuous-deployment-with-github-actions/) but when that's not set up, you can deploy this to Fly via `fly deploy` from the repo locally.
